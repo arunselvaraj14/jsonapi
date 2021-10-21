@@ -15,9 +15,9 @@
   ],
   "comments": [
     {
-      "id": 0000,
-      "body": "some details about your order",
-      "arriving date": "some date"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
@@ -28,6 +28,9 @@
   "profile": {
    "Vesselname": "Ship Name",
     "Ship Location": "N32°18'24.72 W033°06'06.50(32.3069, -033.1018)",
-    "Arriving Port":"Some Port Name"
+    "Arriving Port":"Some Port Name",m
+     "id": 0000,
+      "body": "some details about your order",
+      "arriving date": "some date"
   }
 }
