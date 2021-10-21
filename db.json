@@ -18,4 +18,9 @@
     "Ship Location": "N32°18'24.72 W033°06'06.50(32.3069, -033.1018)",
     "Arriving Port":"Some Port Name"
   }
+  "shipping": {
+    "orderid": "0000",
+    "Tracking Status": "Shipped",
+    "Arriving on":"Some Day"
+  }
 }
