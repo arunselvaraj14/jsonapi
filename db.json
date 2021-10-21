@@ -15,9 +15,9 @@
   ],
   "comments": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 0000,
+      "body": "some details about your order",
+      "arriving date": "some date"
     },
     {
       "id": 2,
