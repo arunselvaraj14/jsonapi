@@ -2,19 +2,31 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
   ],
   "comments": [
     {
-      "orderid": "0000",
-    "Tracking Status": "Shipped",
-    "Arriving on":"Some Day"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
-    "Vesselname": "Ship Name",
+   "Vesselname": "Ship Name",
     "Ship Location": "N32°18'24.72 W033°06'06.50(32.3069, -033.1018)",
     "Arriving Port":"Some Port Name"
   }
